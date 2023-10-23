@@ -5,8 +5,8 @@
 #define HAVE_NETDUMP 0
 
 #ifndef STASSID
-#define STASSID "Dani"      // set the SSID (name) of the Wi-Fi network the ESP8266 will connect to for internet
-#define STAPSK "H4m4_Dev"   // set the password of the Wi-Fi network the ESP8266 will connect to for internet
+#define STASSID "Wifi"      // set the SSID (name) of the Wi-Fi network the ESP8266 will connect to for internet
+#define STAPSK "Wifi_Password"   // set the password of the Wi-Fi network the ESP8266 will connect to for internet
 #define NEWSSID "Free_Wifi" // set the name (SSID) of the Wi-Fi network the ESP8266 will create
 #define NEWPASS "123456789" // set the password of the Wi-Fi network the ESP8266 will create
 #endif
