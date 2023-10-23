@@ -42,7 +42,7 @@ void dump(int netif_idx, const char *data, size_t len, int out, int success)
 }
 #endif
 
-String canary = "http://canarytokens.com/tags/qz27y9j4jkfuqcnuxud9fdt6s/payments.js"; // grab FREE web bug/URL tokens at http://canarytokens.org
+String canary = "Your_canary_token_Here"; // grab FREE web bug/URL tokens at http://canarytokens.org
 String ftp_user = "admin";                                                                         // if you replace this with "%" it will accept ANY username
 String ftp_pass = "password";                                                                      // if you replace this with "%" it will accept ANY password
 bool append_ip = false;                                                                            // if you are using a canary token, leave this as false
